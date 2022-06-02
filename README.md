@@ -4,7 +4,7 @@ Resting State Scripts with Participants demographics information and Ars Questio
 ## Requirements: 
 
 - lsl (BioSemi.exe, Keyboard.exe if needed, Mouse, ...)
-- LabRecorder
+- LabRecorder [https://github.com/labstreaminglayer/App-LabRecorder]
 - Matlab
 - Python :snake:
 - EO.wav, EC.wav, RestingState.m, ArsQ.mlapp, Questionnaire.mlapp 
