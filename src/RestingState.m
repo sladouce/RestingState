@@ -1,7 +1,7 @@
 function RestingState(outlet)
 %% Resting State parameters
-RS_rep=1%5; % Resting State repetition
-RS_duration=2%30; % Resting State Duration
+RS_rep=5; % Resting State repetition
+RS_duration=30; % Resting State Duration
 pause_RS=2; % Pause between Eyes closed and Eyes open during Resting State
 
 % Load auditory files
