@@ -1,0 +1,50 @@
+Question;Answer
+J'ai pensé à mes émotions.;-1
+Je me suis senti.e agité.e.;0
+Je me suis senti.e fatigué.e.;0
+Je me suis senti.e endormi.e.;0
+Je me suis senti.e à l'aise.;0
+Je me suis senti.e détendu.e.;0
+Je me suis senti.e mal.;0
+J'ai apprecié la session.;0
+J'ai eu des émotions négatives.;0
+Je me suis ennuyé.e.;0
+Je n'ai rien senti.e.;0
+J'ai ressenti.e la même chose tout au long de la session.;0
+J'ai pensé à ma santé.;0
+J'ai pensé à mon travail / mes études.;0
+J'ai pensé à mon comportement.;0
+J'ai eu des pensées que je n'aurais pas volontiers partagé avec d'autres.;0
+J'étais occupé à penser.;2
+J'avais des pensées similaires tout au long de la session.;2
+J'ai pensé aux autres.;2
+J'ai pensé à moi-même.;2
+J'ai pensé à des choses agréables.;2
+Je contrôlais mes pensées.;2
+J'ai pensé à résoudre des problèmes.;2
+J'ai pensé au but de l'expérience.;2
+J'ai eu du mal à rester éveillé.e.;2
+J'ai eu des pensées qui changaient rapidement.;2
+J'ai eu des pensées superficielles.;2
+J'ai pensé au passé.;2
+J'ai pensé au présent.;2
+J'ai pensé au futur.;2
+J'ai eu des pensées profondes.;2
+Je ne pensais à rien.;2
+J'ai eu des difficultés à retenir mes pensées.;2
+J'ai pensé aux personnes que j'aime bien.;2
+J'ai pensé en images.;2
+J'ai pensé en mots.;2
+J'ai pensé aux choses que je dois faire.;2
+J'étais conscient de mon corps.;2
+J'ai pensé aux sons qui m'entourent.;2
+J'ai pensé aux odeurs autour de moi.;2
+J'ai pensé aux bâtements de mon coeur.;2
+J'ai pensé à ma respiration.;2
+J'ai ressenti de la douleur.;2
+Je me suis mis à la place des autres.;2
+Je me suis senti motivé pour participer.;2
+J'ai des difficultés à me souvenir de mes pensées.;1
+J'ai des difficultés à me souvenir de mes sentiments.;2
+J'avais les yeux fermés.;1
+J'ai pu répondre correctement aux affirmations précédentes;2
