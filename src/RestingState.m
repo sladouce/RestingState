@@ -1,12 +1,12 @@
 function RestingState(outlet)
 %% Resting State parameters
-RS_rep=5; % Resting State repetition
+RS_rep=1; % Resting State repetition
 RS_duration=30; % Resting State Duration
 pause_RS=2; % Pause between Eyes closed and Eyes open during Resting State
 
 % Load auditory files
-[yEO,Fs] = audioread(fullfile(fileparts(pwd),'sound\EO.wav')); %
-[yEC,Fs] = audioread(fullfile(fileparts(pwd),'sound\EC.wav'));
+[yEO,Fs] = audioread('E:\Clock_Study\RestingState-main\sound\EO.wav'); %
+[yEC,Fs] = audioread('E:\Clock_Study\RestingState-main\sound\EC.wav');
 
 % Launch LSL streams for Matlab marker stream
 markers={'RS_EO','RS_EC'};
